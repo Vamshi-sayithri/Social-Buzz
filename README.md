@@ -23,7 +23,7 @@ Advanced
 
 ## Programming Language 
 
-Python
+SQL
 
 ## Tools 
 
